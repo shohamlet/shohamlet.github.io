@@ -6,11 +6,11 @@ body{
 	margin-left:30px;
 	margin-right:40px;
 	margin-top:40px;
-	margin-bottom:300px;
+	margin-bottom:1000px;
 }
 
 div{
-	margin-top:30px;
+	margin-top:40px;
 	margin-left:10px;
 }
 
@@ -25,7 +25,7 @@ table{
 li {
 	margin-left: 0; 
 	padding-left: 0;
-	margin-bottom: 5px;
+	margin-bottom: 3px;
 }
 
 ul {
@@ -33,12 +33,16 @@ ul {
 	padding-left: 25px;
 }
 
-
 h1 {
 	align:center;
 	font-size:40px;
 	margin-bottom: 50px;
 	line-height:.9em;
+}
+
+h2 {
+	margin-top:30px;
+	margin-bottom:0px;
 }
 
 
